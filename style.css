@@ -1,0 +1,17 @@
+body{
+    background-color:aquamarine;
+    text-align:center;
+}
+.image-section{
+    display: flex;
+    justify-content:center;
+}
+div{
+    margin-top:15px;
+}
+.section-style{
+    margin-right:25px;
+    margin-left:25px;
+        background-color: white;
+    text-align:center;
+}
